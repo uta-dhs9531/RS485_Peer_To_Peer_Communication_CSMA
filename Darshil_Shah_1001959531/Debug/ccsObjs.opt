@@ -1,0 +1,1 @@
+"./Shah_Darshil_Hareshkumar_1001959531.obj" "./clock.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "./wait.obj" "../tm4c123gh6pm.cmd" -llibc.a 
